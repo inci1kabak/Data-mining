@@ -6,11 +6,11 @@ This project uses a dataset from a Portuguese bank containing information about 
 
  Steps Performed :
 
-1. Loading the Dataset  - The dataset is imported for processing.
+1- Loading the Dataset  - The dataset is imported for processing.
 
-2. Removing Unnecessary Columns - Certain columns that are not relevant to the analysis are dropped.
+2- Removing Unnecessary Columns - Certain columns that are not relevant to the analysis are dropped.
 
-3. Encoding Categorical Variables - Categorical data is converted into numerical format for use in machine learning models.
+3- Encoding Categorical Variables - Categorical data is converted into numerical format for use in machine learning models.
 
  Objective :
 
