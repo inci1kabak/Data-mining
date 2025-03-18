@@ -1,6 +1,6 @@
 ## Bank Credit Prediction Project
 
- Dataset :
+ ## Dataset :
 
 This project uses a dataset from a Portuguese bank containing information about customers and whether they have been granted credit.
 
