@@ -1,10 +1,10 @@
-## Bank Credit Prediction Project
+## Bank Credit Prediction Project :
 
  ## Dataset :
 
 This project uses a dataset from a Portuguese bank containing information about customers and whether they have been granted credit.
 
- Steps Performed :
+ # Steps Performed :
 
 1- Loading the Dataset  - The dataset is imported for processing.
 
