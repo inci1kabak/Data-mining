@@ -1,4 +1,4 @@
-# Bank Credit Prediction Project 
+# Bank Credit Prediction Project :
 
  ## Dataset :
 
